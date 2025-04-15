@@ -44,7 +44,7 @@ pip install -r requirements.txt
    ```
 3.Run the app:
    ```
-     python youtube_summarizer.py
+     main.py
    ```
 
 ## Languages Supported:
