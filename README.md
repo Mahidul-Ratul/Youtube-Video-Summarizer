@@ -35,7 +35,7 @@ pip install -r requirements.txt
 ## How to run:
 1. Clone this repository
    ```
-   git clone https://github.com/yourusername/Youtube-Video-Summarizer.git
+   git clone https://github.com/Mahidul-Ratul/Youtube-Video-Summarizer.git
    cd Youtube-Video-Summarizer
    ```
 2.Install the dependencies:
