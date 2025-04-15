@@ -44,7 +44,7 @@ pip install -r requirements.txt
    ```
 3.Run the app:
    ```
-     main.py
+    python main.py
    ```
 
 ## Languages Supported:
