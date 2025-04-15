@@ -40,7 +40,7 @@ pip install -r requirements.txt
    ```
 2.Install the dependencies:
    ```
-     pip install -r requirements.txt
+     pip install -r requirement.txt
    ```
 3.Run the app:
    ```
